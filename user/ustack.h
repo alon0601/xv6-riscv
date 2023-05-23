@@ -15,12 +15,4 @@ struct buffer {
 
 int get_ptr();
 void* ustack_malloc(uint len);
-<<<<<<< HEAD
-int ustack_free();
-=======
-int ustack_free();
->>>>>>> 84c758ce2a72659f3aead21720f5dd06a94aa750
-
-int get_ptr();
-void* ustack_malloc(uint len);
 int ustack_free();
